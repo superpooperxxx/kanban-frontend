@@ -1,0 +1,19 @@
+.theme {
+  // LIGHT
+  &--light {
+    --background-accent: #635fc7;
+    --background-accent-hover: #a8a4ff;
+
+    --background-main: #f4f7fd;
+    --background-secondary: #fff;
+  }
+
+  // DARK
+  &--dark {
+    --background-accent: #635fc7;
+    --background-accent-hover: #a8a4ff;
+
+    --background-main: #20212c;
+    --background-secondary: #2b2c37;
+  }
+}

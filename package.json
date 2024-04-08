@@ -20,9 +20,11 @@
   },
   "homepage": "https://github.com/superpooperxxx/kanban-frontend#readme",
   "devDependencies": {
+    "@types/classnames": "^2.3.1",
     "@types/node": "^20.12.2",
     "@types/react": "^18.2.74",
     "@types/react-dom": "^18.2.24",
+    "@types/react-router-dom": "^5.3.3",
     "@types/webpack": "^5.28.5",
     "@types/webpack-dev-server": "^4.7.2",
     "css-loader": "^7.0.0",
@@ -39,7 +41,9 @@
     "webpack-dev-server": "^5.0.4"
   },
   "dependencies": {
+    "classnames": "^2.5.1",
     "react": "^18.2.0",
-    "react-dom": "^18.2.0"
+    "react-dom": "^18.2.0",
+    "react-router-dom": "^6.22.3"
   }
 }

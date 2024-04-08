@@ -13,5 +13,5 @@ export const buildDevServer = (
         open: true,
         historyApiFallback: true,
       }
-    : undefined;
+    : {};
 };
